@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "TrimixManhunt.aternos.me",
     "port": 16742,
     "version": "1.20.1",
     "try-creative": false
